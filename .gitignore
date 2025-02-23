@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.dist-info/
+
+# PyInstaller
+# Usually these files are written by a python script from a .spec file
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytype static type analyzer
+.pytype/
+
+# VS Code settings
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# Python Language Server
+.pyls/
+
+# Other files
+*.DS_Store
+*.egg
+*.egg-info
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# CI/CD files
+*.yml
+*.yaml
+
